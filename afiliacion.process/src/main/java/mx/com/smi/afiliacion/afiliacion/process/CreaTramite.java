@@ -12,7 +12,7 @@ import org.camunda.bpm.engine.delegate.JavaDelegate;
 import mx.com.smi.afiliacion.services.*;  
 
 
-
+//crea tramite en bpm
 public class CreaTramite implements JavaDelegate {
 
 	@Override
